@@ -8,12 +8,13 @@ My main tech stack is Python, Flask, Discord API, Git/GitHub, and Linux, with ex
 
 I've built a couple of projects, but my favorite is my Discord API Bot
 
-Fun fact
-My favorite show is Breaking Bad
+Fun facts:
 
-Frosted Flakes is my favorite cereal
+- My favorite show is Breaking Bad
 
-Hobbies: basketball, gym, reading
+- Frosted Flakes is my favorite cereal
+
+- Hobbies: basketball, gym, reading
 
 <!--
 *seunseun66/seunseun66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
