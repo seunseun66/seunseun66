@@ -10,7 +10,9 @@ I've built a couple of projects, but my favorite is my Discord API Bot
 
 Fun fact
 My favorite show is Breaking Bad
+
 Frosted Flakes is my favorite cereal
+
 Hobbies: basketball, gym, reading
 
 <!--
