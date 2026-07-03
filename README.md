@@ -4,7 +4,7 @@ I'm Seun, an information science student who is currently attending the Universi
 
 I build whatever I can imagine.
 
-My main tech stack is Python, Flask, Discord API, Git/GitHub, and Linux, with experience using C++, Java, Node.js, Bash, and R.Studio
+My main tech stack is Python, Flask, APIs, Git/GitHub, and Linux, with experience using C++, Java, Node.js, Bash, and R.Studio
 
 I've built a couple of projects, but my favorite is my Discord API Bot
 
